@@ -15,7 +15,7 @@ gb-nir-4x3.svg
 Save the file on flags/4x3
 
 ```
-Then copy those files into the the flag folder and add these lines to the flag.css
+Then add these lines to the flag.css
 
 ```
 .flag-icon-gb-nir {
