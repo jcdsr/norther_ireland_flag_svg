@@ -7,12 +7,12 @@ Download the files
 ```
 gb-nir-1x1.svg
 
-Save the file onflags/1x1
+Save the file on flags/1x1
 
 
 gb-nir-4x3.svg
 
-Save the file onflags/4x3
+Save the file on flags/4x3
 
 ```
 Then copy those files into the the flag folder and add these lines to the flag.css
