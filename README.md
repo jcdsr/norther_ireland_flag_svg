@@ -26,3 +26,7 @@ Then copy those files into the the flag folder and add these lines to the flag.c
   background-image: url(../flags/1x1/gb-nir-4x3.svg);
 }
 ```
+
+Feel free to use those files for any other purpose.
+
+
